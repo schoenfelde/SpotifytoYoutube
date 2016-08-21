@@ -1,0 +1,8 @@
+{
+    "manifest_version": 2,
+    "name": "Spotify to Youtube Extension",
+    "short_name": "Make your spotify playlists available on Youtube",
+    "description": "Make your spotify playlists available on Youtube.",
+    "version": "1.0.0",
+    "author": "Elliot Schoenfeld @schoenfelde"
+}
